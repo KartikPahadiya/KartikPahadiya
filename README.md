@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me!:
 👋 Hi, I’m Kartik<br><br>I’m an AI/ML undergraduate with a strong interest in Machine Learning, NLP, and applied AI systems. I focus on building models that go beyond notebooks—working on end-to-end ML pipelines, real-time inference, and deployment-ready applications.<br><br>My recent work includes emotion detection from text and audio, suicide risk classification, and integrating ML models into Flask-based web applications. I enjoy breaking complex ML systems, fixing them, and then making them run faster and cleaner.<br><br>Currently, I’m sharpening my skills in transformer models, model optimization, and ML deployment, with the long-term goal of working on high-impact, production-scale AI systems.
 
 
